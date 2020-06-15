@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tony_Stark</string>
+    <string name="new_app_name">Avengers</string>
+    <string name="preference_file_name">Avenger Preferences</string>
+</resources>
